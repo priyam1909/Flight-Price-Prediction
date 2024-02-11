@@ -39,5 +39,4 @@ The dataset used for this analysis contains information about various flights in
 - Matplotlib
 - Seaborn
 
-## Acknowledgements
-- The dataset used in this analysis was obtained from [source]().
+
